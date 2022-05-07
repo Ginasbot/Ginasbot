@@ -1,5 +1,7 @@
 # Ginasbot
-@ginahd_bot
+Usuario en telegram:
+
+### @ginahd_bot
 
 
 # Bot Gina
